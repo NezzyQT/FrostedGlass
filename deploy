@@ -17,7 +17,7 @@
   /*
    * Background image variables
    */
-  --background-image: url("https://images-ng.pixai.art/images/orig/aeebe637-6655-47e6-8329-1d9b366e6788"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://images-ng.pixai.art/images/orig/e9fac8d1-b7a8-4be3-9a5c-abae7289c9c7"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
