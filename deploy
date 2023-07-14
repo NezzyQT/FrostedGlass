@@ -17,7 +17,7 @@
   /*
    * Background image variables
    */
-  --background-image: url("https://images-ng.pixai.art/images/orig/b817567e-6c89-443e-8d51-a9dbd36cd44f"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://lolibooru.moe/image/3504e9edda43a6a7a82cbf677913996c/lolibooru%20591893%20blunt_bangs%20gawr_gura_(1st_costume)%20hair_ornament%20hololive_english%20looking_at_viewer%20multicoloured_hair%20streaked_hair%20two_side_up%20white_background.mp4"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
